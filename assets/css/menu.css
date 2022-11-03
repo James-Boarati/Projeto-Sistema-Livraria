@@ -1,0 +1,6 @@
+.menu {
+    display: flex;
+    padding: 4rem;
+    color: darkslategray;
+    font-size: 1.5rem;
+}

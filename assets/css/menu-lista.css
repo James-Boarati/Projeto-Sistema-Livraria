@@ -2,3 +2,7 @@
     padding-right: 4rem;
     text-decoration: underline;
 }
+
+.menu__lista:hover {
+    cursor:pointer
+}

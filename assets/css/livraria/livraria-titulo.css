@@ -1,0 +1,8 @@
+.livraria__titulo {
+    background: #f9f9f9;
+    color:#8d0606;
+    font-family: Pacifico, cursive;
+    font-size: 4rem;
+    padding-top: 1.5rem;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.8);
+}

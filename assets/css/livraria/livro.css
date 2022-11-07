@@ -3,3 +3,10 @@
     flex-direction: column;
     padding: 5rem;
 }
+
+@media screen and (max-width: 480px) {
+    .livro {
+        padding: 0%;
+        margin-bottom: 3rem;
+    }
+}

@@ -9,3 +9,9 @@
     transform: translate(-50%, -50%);
     text-shadow: 0 5px 5px rgba(0, 0, 0, 0.8);
 }
+
+@media screen and (max-width: 480px) {
+    .banner__titulo {
+        font-size: 4rem;
+    }
+    }

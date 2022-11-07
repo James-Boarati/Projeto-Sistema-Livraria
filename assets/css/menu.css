@@ -4,3 +4,11 @@
     color: darkslategray;
     font-size: 1.5rem;
 }
+
+@media screen and (max-width: 480px) {
+    .menu {
+        padding: 2rem;
+        width: auto;
+        align-items: center;
+    }
+}

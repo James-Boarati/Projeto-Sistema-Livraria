@@ -3,7 +3,7 @@ Projeto - Livraria
 </h1>
 
 <h1>
-    <img src="gif/gifprojeto.gif">
+    <img src="./assets/gif/gifprojeto.gif">
 </h1>
 
 ## ✉ Sobre

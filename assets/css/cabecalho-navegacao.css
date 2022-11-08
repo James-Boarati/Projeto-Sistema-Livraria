@@ -1,0 +1,5 @@
+@media screen and (max-width: 480px) {
+    .cabecalho__navegacao {
+        width: 100%;
+    }
+}

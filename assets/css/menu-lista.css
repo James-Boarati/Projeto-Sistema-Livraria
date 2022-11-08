@@ -1,8 +1,15 @@
 .menu__lista {
-    padding-right: 4rem;
-    text-decoration: underline;
+    padding-right: 3.5rem;
 }
 
 .menu__lista:hover {
     cursor:pointer
+}
+
+@media screen and (max-width: 480px) {
+    .menu__lista {
+        padding:5px;
+        list-style-type: none;
+        text-decoration: none;
+    }
 }
